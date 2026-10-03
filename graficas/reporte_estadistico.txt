@@ -1,0 +1,52 @@
+======================================================================
+REPORTE ESTADÍSTICO - DATOS DE ESTUDIANTES
+======================================================================
+
+Total de registros: 1000
+
+--- ESTADÍSTICAS DE SCORES ---
+
+Matemáticas:
+  Media: 66.10
+  Mediana: 66.00
+  Desviación Estándar: 15.17
+  Mínimo: 0.00
+  Máximo: 100.00
+
+Lectura:
+  Media: 69.17
+  Mediana: 70.00
+  Desviación Estándar: 14.60
+  Mínimo: 17.00
+  Máximo: 100.00
+
+Escritura:
+  Media: 68.05
+  Mediana: 69.00
+  Desviación Estándar: 15.20
+  Mínimo: 10.00
+  Máximo: 100.00
+
+--- TASA DE APROBACIÓN EN MATEMÁTICAS ---
+Total: 67.7%
+
+--- DISTRIBUCIÓN POR GÉNERO ---
+  female: 518 (51.8%)
+  male: 482 (48.2%)
+
+--- DISTRIBUCIÓN POR GRUPO ÉTNICO ---
+  group C: 319 (31.9%)
+  group D: 262 (26.2%)
+  group B: 190 (19.0%)
+  group E: 140 (14.0%)
+  group A: 89 (8.9%)
+
+--- DISTRIBUCIÓN POR EDUCACIÓN DE PADRES ---
+  some college: 226 (22.6%)
+  associate's degree: 222 (22.2%)
+  high school: 196 (19.6%)
+  some high school: 179 (17.9%)
+  bachelor's degree: 118 (11.8%)
+  master's degree: 59 (5.9%)
+
+======================================================================
