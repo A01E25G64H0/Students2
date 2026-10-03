@@ -2,5 +2,3 @@ fastapi
 uvicorn
 pandas
 scikit-learn==1.9.1
-pandas
-gunicorn
